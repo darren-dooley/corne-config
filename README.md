@@ -17,7 +17,7 @@ My Vial keymap for the Corne V4 split keyboard, optimised for macOS and vim work
 
 **Stick to defaults.** I use QWERTY and keep shifted symbols in their standard positions. This lets me move between machines without retraining muscle memory.
 
-**Brackets get their own columns.** The right two columns on Layer 1 are dedicated to bracket pairs: `[]`, `{}`, `()`. Numbers shift left to accommodate this.
+**Brackets get their own columns.** The right two columns on Layer 1 are dedicated to bracket pairs: `[]`, `{}`, `()`. Numbers are moved to new positions to accommodate this.
 
 **Vim everywhere.** Layer 2 provides arrow keys on `hjkl`, giving vim-style navigation in any text field.
 
